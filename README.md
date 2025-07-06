@@ -5,15 +5,15 @@ A modern e-commerce app built with React and TypeScript, featuring a responsive 
 
 ## Screenshots 📸
 
-- **Home Page**: ![Home Page](public/home.png) 🏠
+- **Home Page**: ![Home Page](public/home-e.png) 🏠
 - **Category Page**: ![Category Page](public/category.png) 📋
 - **Shop Page**: ![Shop Page](public/shop.png) 🛍️
 
 ## Installation ⚙️
 
-1. Clone the repo: `git clone <repo-url>` 📂
+1. Clone the repo: `git clone https://github.com/Akshat090803/ecommerce-assignment.git` 📂
 2. Install dependencies `'npm install'` 🔧
-3. Start the dev server: `npm start` 🚀
+3. Start the dev server: `npm run dev` 🚀
 
 ## Tech Stack 💻
 
